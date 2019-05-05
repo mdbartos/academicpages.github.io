@@ -191,14 +191,13 @@ collections:
 
 # Defaults
 defaults:
-defaults:
   # _docs
   - scope:
       path: ""
       type: docs
     values:
       sidebar:
-        nav: "main"
+        nav: "docs"
   # _posts
   - scope:
       path: ""
