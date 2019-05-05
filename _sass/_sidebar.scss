@@ -15,6 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
+    @include prefix(0.25 of 12)
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -52,7 +53,6 @@
   background: #000;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
-  padding-left: 0.5em;
 }
 
 .sidebar__right {
