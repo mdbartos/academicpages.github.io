@@ -17,11 +17,13 @@
 }
 
 .page {
-  // @include breakpoint($large) {
-  //   @include span(10 of 12 last);
-  //   @include prefix(0.5 of 12);
-  //   @include suffix(2 of 12);
-  // }
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(2 of 12);
+    @include suffix(4 of 12);
+    /* @include prefix(0.5 of 12); */
+    /* @include suffix(2 of 12); */
+  }
 
   .page__inner-wrap {
     @include full();
@@ -38,11 +40,11 @@
   color: #fff;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
-  width: 60%;
-  padding-left: 1%;
-  padding-right: 1%;
-  margin-left: 8%;
-  margin-right: 8%;
+  /* width: 60%; */
+  /* padding-left: 1%; */
+  /* padding-right: 1%; */
+  /* margin-left: 8%; */
+  /* margin-right: 8%; */
 }
 
 .page__title {
