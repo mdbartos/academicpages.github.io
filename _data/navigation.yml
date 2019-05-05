@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: ""
+  - title: #
     children:
+    - title: "About"
+      url: /
+
     - title: "Publications"
       url: /publications/
 
