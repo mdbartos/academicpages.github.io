@@ -1,8 +1,8 @@
 ---
 title: "The conservation nexus: valuing interdependent water and energy savings in Arizona"
 collection: publications
-permalink: /publication/conservation-nexus
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2014-02-07-conservation-nexus
+excerpt: ''
 date: 2014-02-07
 venue: 'Environmental Science and Technology'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/es4033343'
