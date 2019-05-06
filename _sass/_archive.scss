@@ -10,8 +10,13 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+      @include pre(0.5 of 12);
+      @include span(8 of 12 last);
+      @include prefix(0.25 of 12);
+      @include suffix(0.25 of 12);
+      @include post(1.5 of 12);
+    // @include span(10 of 12 last);
+    // @include prefix(0.5 of 12);
   }
 
   a {
@@ -25,6 +30,12 @@
       }
     }
   }
+  background: #000;
+  color: #fff;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  float: right;
+
 }
 
 .archive__subtitle {
