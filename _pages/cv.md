@@ -9,51 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----
+* Ph.D. in Civil Engineering, University of Michigan, 2020 (expected)
+* M.S. in Electrical Engineering, University of Michigan, 2019
+* M.S.E. in Civil Engineering, University of Michigan, 2019
+* B.S.E. in Environmental Engineering, Arizona State University, 2013
+* B.A. in English Literature, Arizona State University, 2013
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+-----
+* Graduate Student Researcher (2015 - Present)
+  * Real-time water systems lab, University of Michigan
+  * Supervisor: Dr. Branko Kerkez
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Scientist (2013 - 2015)
+  * Sustainable Urban Systems Lab, Arizona State University
+  * Supervisor: Dr. Mikhail Chester
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Awards
+-----
+* J. Robert Beyster Computational Innovation Graduate Fellowship (2018-2019)
+  * University of Michigan College of Engineering, Ann Arbor, MI
+* ESIP Lab Incubator Awardee (2018)
+  * Earth Science Information Partners, Bethesda, MD
+* Funding Friday Winner (2017)
+  * Earth Science Information Partners, Bethesda, MD
+* ESIP Student Fellow (2017 - 2018)
+  * Earth Science Information Partners, Bethesda, MD
+* Henry Earle Riggs Fellowship (2015)
+  * University of Michigan, Ann Arbor, MI
+* President's Scholarship (2007)
+  * Arizona State University, Tempe, AZ
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Leadership and Service
+-----
+* Graduate Student Instructor for ENG100: Robots, Sensors and Smart Water (2018)
+  * College of Engineering, University of Michigan, Ann Arbor, MI
+* Instructor for the "Open Storm" Embedded Systems Workshop (2017)
+  * Consortium for the Advancement of Hydrologic Sciences, Cambridge, MA
+* Undergraduate Research Opportunities Program Mentor (2016 - 2018)
+  * College of Engineering, University of Michigan, Ann Arbor, MI
+* Editor and Media Relations Officer (2012 - 2013)
+  * Chi Epsilon Civil Engineering Honor Society, Arizona State University Chapter, Tempe, AZ.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Certifications
+-----
+* Engineer in Training (2014)
+  * Civil Engineering, State of Arizona
