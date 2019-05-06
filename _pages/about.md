@@ -10,19 +10,19 @@ redirect_from:
 
 Hi. I am a Ph.D. candidate studying Civil Engineering at the University of Michigan. 
 
-Research
+▶ Research
 ------
 
-My research focuses on using wireless sensor networks to enable real-time monitoring and control of urban water systems.
+My research focuses on building wireless sensor networks to enable real-time monitoring and control of urban water systems.
 
 Some ongoing applications include a real-time flood monitoring network in the Dallas--Fort Worth metroplex, and a pilot stormwater control network in the City of Ann Arbor. 
 
-I am also working to develop new algorithms for data assimilation, event detection, and sensor/controller placement. 
+I also develop new algorithms for data assimilation, event detection, and sensor/controller placement. 
 
-Software
+▶ Software
 ------
 
-In addition to my research, I also like to write scientific software. I am a lead developer on a number of open-source libraries, including:
+When I'm not doing research, I like to write scientific software. I am a lead developer on a number of open-source libraries, including:
 
 - **pysheds**: a popular digital elevation model processing toolkit.
 - **rrcf**: an unsupervised streaming anomaly detection algorithm.
