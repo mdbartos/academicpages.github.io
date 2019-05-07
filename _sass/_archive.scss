@@ -64,9 +64,7 @@
 
   .archive__item-title {
     margin-top: 1em;
-    // border-bottom: none;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: none;
   }
 }
 
@@ -97,6 +95,9 @@
   }
 }
 
+.archive__item {
+    border-bottom: 1px solid $border-color;
+}
 
 /*
    List view
