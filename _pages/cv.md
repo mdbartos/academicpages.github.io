@@ -12,19 +12,22 @@ redirect_from:
 
 ▶ Education
 -----
-* Ph.D. in _Civil Engineering_, University of Michigan, 2020 (expected)
-* M.S. in _Electrical and Computer Engineering_, University of Michigan, 2019
-* M.S.E. in _Civil Engineering_, University of Michigan, 2019
-* B.S.E. in _Environmental Engineering_, Arizona State University, 2013
-* B.A. in _English Literature_, Arizona State University, 2013
+* Graduate:
+  * Ph.D. in __Civil Engineering__, University of Michigan (2020)
+  * M.S. in __Electrical and Computer Engineering__, University of Michigan (2019)
+  * M.S.E. in __Civil Engineering__, University of Michigan (2019)
+
+* Undergraduate:
+  * B.S.E. in __Environmental Engineering__, Arizona State University (2013)
+  * B.A. in __English Literature__, Arizona State University (2013)
 
 ▶ Work experience
 -----
 * Graduate Student Researcher (2015 - Present)
-  * [Real-time water systems lab](http://www-personal.umich.edu/~bkerkez/), University of Michigan
+  * [Real-time water systems lab](http://www-personal.umich.edu/~bkerkez/) | University of Michigan
 
 * Research Scientist (2013 - 2015)
-  * [Sustainable urban systems lab](http://urbansustainability.lab.asu.edu/), Arizona State University
+  * [Sustainable urban systems lab](http://urbansustainability.lab.asu.edu/) | Arizona State University
   
 ▶ Awards
 -----
