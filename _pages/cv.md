@@ -12,12 +12,13 @@ redirect_from:
 
 ▶ Education
 -----
-* __Ph.D.__ in __Civil Engineering__, University of Michigan (2020)
-* __M.S.__ in __Electrical and Computer Engineering__, University of Michigan (2019)
-* __M.S.E.__ in __Civil Engineering__, University of Michigan (2019)
+* __Ph.D. in Civil Engineering__, University of Michigan (2020)
+* __M.S. in Electrical and Computer Engineering__, University of Michigan (2019)
+* __M.S.E. in Civil Engineering__, University of Michigan (2019)
 
-* __B.S.E.__ in __Environmental Engineering__, Arizona State University (2013)
-* __B.A.__ in __English Literature__, Arizona State University (2013)
+
+* __B.S.E. in Environmental Engineering__, Arizona State University (2013)
+* __B.A. in English Literature__, Arizona State University (2013)
 
 ▶ Work experience
 -----
