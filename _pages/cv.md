@@ -19,28 +19,28 @@ redirect_from:
 
 ▶ Work experience
 -----
-* Graduate Student Researcher (2015 - Present)
+* __Graduate Student Researcher__ (2015 - Present)
   * [Real-time water systems lab](http://www-personal.umich.edu/~bkerkez/) \| University of Michigan
 
-* Research Scientist (2013 - 2015)
+* __Research Scientist__ (2013 - 2015)
   * [Sustainable urban systems lab](http://urbansustainability.lab.asu.edu/) \| Arizona State University
   
 ▶ Awards
 -----
-* J. Robert Beyster Computational Innovation Graduate Fellowship (2018-2019)
-* Earth Science Information Partners: Lab Incubator Awardee (2018)
-* Earth Science Information Partners: Funding Friday Winner (2017)
-* Earth Science Information Partners: Student Fellow (2017-2018)
+* J. Robert Beyster [Computational Innovation Graduate Fellowship](https://news.engin.umich.edu/2018/07/student-matt-bartos-chosen-as-beyster-fellow/) (2018-2019)
+* Earth Science Information Partners: [Lab Incubator Awardee](https://www.esipfed.org/wp-content/uploads/2018/07/Daniels.pdf) (2018)
+* Earth Science Information Partners: [Funding Friday Winner](http://wiki.esipfed.org/index.php/FUNding_Friday_Projects) (2017)
+* Earth Science Information Partners: [Student Fellow](https://www.esipfed.org/about/leadership/community-fellows/matt-bartos-2) (2017-2018)
 * Henry Earle Riggs Fellowship (2015)
 * President's Scholarship (2007)
 
 ▶ Leadership and Service
 -----
-* Graduate Student Instructor for ENG100: Robots, Sensors & Smart Water (2018)
-* Instructor for the *Open Storm* Embedded Systems Workshop (2017)
-* Undergraduate Research Opportunities Program Mentor (2016-2018)
-* Chi Epsilon Civil Engineering Honor Society: Editor and Media Relations (2012-2013)
+* __Graduate Student Instructor__ for ENG100: Robots, Sensors & Smart Water (2018)
+* __Instructor__ for the *Open Storm* Embedded Systems Workshop (2017)
+* __Mentor__ for the Undergraduate Research Opportunities Program (2016-2018)
+* __Editor and Media Relations__: Chi Epsilon Civil Engineering Honor Society (2012-2013)
   
 ▶ Certifications
 -----
-* Engineer in Training: Civil Engineering, State of Arizona (2014)
+* __Engineer in Training__: Civil Engineering, State of Arizona (2014)
