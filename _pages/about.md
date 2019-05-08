@@ -15,7 +15,7 @@ Hi. I am a Ph.D. candidate studying Civil Engineering at the University of Michi
 
 My research focuses on developing the next generation of [*smart* urban water systems](https://mdbartos.github.io/academicpages.github.io/publication/2017-12-22-open).
 
-These systems use real-time monitoring and control to mitigate flash floods, limit pollutant loads and reduce operational costs.
+<!-- These systems use real-time monitoring and control to mitigate flash floods, limit pollutant loads and reduce operational costs. -->
 
 Ongoing applications include a [real-time flood monitoring network](https://mdbartos.github.io/academicpages.github.io/publication/2019-02-27-hydrologic) in the Dallas--Fort Worth metroplex, and a pilot [stormwater control network](https://mdbartos.github.io/academicpages.github.io/publication/2018-07-13-shaping) in the City of Ann Arbor. 
 
