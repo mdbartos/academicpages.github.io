@@ -13,9 +13,11 @@ Hi. I am a Ph.D. candidate studying Civil Engineering at the University of Michi
 ▶ Research
 ------
 
-My research focuses on building wireless sensor networks to enable real-time monitoring and control of urban water systems.
+My research focuses on developing the next generation of *smart* urban water systems.
 
-Some ongoing applications include a real-time flood monitoring network in the Dallas--Fort Worth metroplex, and a pilot stormwater control network in the City of Ann Arbor. 
+These systems use real-time monitoring and control to mitigate flash floods, limit pollutant loads and reduce operational costs.
+
+Ongoing applications include a real-time flood monitoring network in the Dallas--Fort Worth metroplex, and a pilot stormwater control network in the City of Ann Arbor. 
 
 I also develop new algorithms for data assimilation, event detection, and sensor/controller placement. 
 

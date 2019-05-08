@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -15,8 +15,6 @@ redirect_from:
 * __Ph.D. in Civil Engineering__, University of Michigan (2020)
 * __M.S. in Electrical and Computer Engineering__, University of Michigan (2019)
 * __M.S.E. in Civil Engineering__, University of Michigan (2019)
-
-
 * __B.S.E. in Environmental Engineering__, Arizona State University (2013)
 * __B.A. in English Literature__, Arizona State University (2013)
 
@@ -33,16 +31,16 @@ redirect_from:
 * J. Robert Beyster Computational Innovation Graduate Fellowship (2018-2019)
 * Earth Science Information Partners: Lab Incubator Awardee (2018)
 * Earth Science Information Partners: Funding Friday Winner (2017)
-* Earth Science Information Partners: Student Fellow (2017 - 2018)
+* Earth Science Information Partners: Student Fellow (2017-2018)
 * Henry Earle Riggs Fellowship (2015)
 * President's Scholarship (2007)
 
 ▶ Leadership and Service
 -----
-* Graduate Student Instructor for ENG100: Robots, Sensors and Smart Water (2018)
+* Graduate Student Instructor for ENG100: Robots, Sensors & Smart Water (2018)
 * Instructor for the *Open Storm* Embedded Systems Workshop (2017)
-* Undergraduate Research Opportunities Program Mentor (2016 - 2018)
-* Chi Epsilon Civil Engineering Honor Society: Editor and Media Relations Officer (2012 - 2013)
+* Undergraduate Research Opportunities Program Mentor (2016-2018)
+* Chi Epsilon Civil Engineering Honor Society: Editor and Media Relations (2012-2013)
   
 ▶ Certifications
 -----
