@@ -48,9 +48,9 @@
           <script>
            var {{post.name}}_owner = "{{post.owner}}";
            var {{post.name}}_repo = "{{post.repo}}";
+           var star_icon = "<span style="color: White;"><i class="fas fa-star"></i></span>";
            $.getJSON('https://api.github.com/repos' + '/' + {{post.name}}_owner + '/' + {{post.name}}_repo, function(data) {
-               console.log(data['stargazers_count']);
-               $("#{{post.name}}_stats").html('<p>Stars: ' + data['stargazers_count'].toString() + ' </p>');
+               $("#{{post.name}}_stats").html('<p>' + star_icon + ' ' + data['stargazers_count'].toString() + ' </p>');
            });
           </script>
         {% elsif post.collection == 'publications' %}
