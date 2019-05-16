@@ -41,15 +41,16 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.collection == 'software' %}
-          <p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify }}</p>
+            {{% if post.description %}}
+            <p>{{ post.description | markdownify }}</p>
+            {{% endif %}}
           <div id="{{post.name}}_stats"></div>
           <script>
            var {{post.name}}_owner = "{{post.owner}}";
            var {{post.name}}_repo = "{{post.repo}}";
-           var {{post.name}}_stars = 0;
            $.getJSON('https://api.github.com/repos' + '/' + {{post.name}}_owner + '/' + {{post.name}}_repo, function(data) {
                console.log(data['stargazers_count']);
-               $("#{{post.name}}").html('<p>Stars: ' + data['stargazers_count'].toString() + ' </p>');
+               $("#{{post.name}}_stats").html('<p>Stars: ' + data['stargazers_count'].toString() + ' </p>');
            });
           </script>
         {% elsif post.collection == 'publications' %}
