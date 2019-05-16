@@ -2,7 +2,8 @@
 title: "pysheds"
 excerpt: "🌎 Simple and fast watershed delineation in Python: https://github.com/mdbartos/pysheds"
 collection: software
-owner: mdbartos
-repo: pysheds
+name: pysheds
+owner: "mdbartos"
+repo: "pysheds"
 ---
 
