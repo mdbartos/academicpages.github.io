@@ -1,7 +1,7 @@
 ---
 title: "superlink"
 description: "🚰 Implementation of the SUPERLINK hydraulic solver"
-excerpt: Repository: <a href="https://github.com/mdbartos/superlink">mdbartos/superlink</a>
+excerpt: "Repository: [mdbartos/superlink](https://github.com/mdbartos/superlink)"
 collection: software
 name: superlink
 owner: "mdbartos"
