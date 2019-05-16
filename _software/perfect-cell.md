@@ -1,7 +1,6 @@
 ---
 title: "perfect-cell"
-description: "🐞 General purpose firmware for cell-enabled PSoC motes"
-excerpt: "Repository: <a href="https://github.com/open-storm/perfect-cell">open-storm/perfect-cell</a>"
+excerpt: "🐞 General purpose firmware for cell-enabled PSoC motes"
 collection: software
 name: perfectcell
 owner: "open-storm"
