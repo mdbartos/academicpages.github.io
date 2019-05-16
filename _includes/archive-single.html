@@ -41,7 +41,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.collection == 'software' %}
-          <div id="{{post.name}}"></div>
+          <p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify }}</p>
+          <div id="{{post.name}}_stats"></div>
           <script>
            var {{post.name}}_owner = "{{post.owner}}";
            var {{post.name}}_repo = "{{post.repo}}";
