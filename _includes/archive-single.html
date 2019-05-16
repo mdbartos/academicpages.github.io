@@ -40,6 +40,15 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'software' %}
+          <script>
+           var owner = {{post.owner}};
+           var repo = {{post.repo}};
+           var stars = 0;
+           $.getJSON('https://api.github.com/repos' + '/' + owner + '/' + repo, function(data) {
+               stars = data['stargazers_count'];
+           });
+          </script>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
