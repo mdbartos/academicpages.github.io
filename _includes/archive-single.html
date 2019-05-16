@@ -46,6 +46,7 @@
            var {{post.name}}_repo = "{{post.repo}}";
            var {{post.name}}_stars = 0;
            $.getJSON('https://api.github.com/repos' + '/' + owner + '/' + repo, function(data) {
+               console.log(data['stargazers_count']);
                {{post.name}}_stars = data['stargazers_count'];
            });
           </script>
