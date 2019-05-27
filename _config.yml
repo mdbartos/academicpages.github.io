@@ -220,6 +220,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      sidebar:
+        nav: "main"
   # _publications
   - scope:
       path: ""
@@ -229,6 +231,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      sidebar:
+        nav: "main"
   # _software
   - scope:
       path: ""
@@ -238,6 +242,8 @@ defaults:
       author_profile: true
       share: false
       comment: false
+      sidebar:
+        nav: "main"
   # _talks
   - scope:
       path: ""
@@ -246,6 +252,8 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+      sidebar:
+        nav: "main"
 
 # Sass/SCSS
 sass:
