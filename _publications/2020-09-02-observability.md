@@ -1,7 +1,7 @@
 ---
 title: "Observability-based sensor placement improves contaminant tracing in river networks"
 collection: publications
-permalink: /publication/2020-09-02-observability.md
+permalink: /publication/2020-09-02-observability
 excerpt: ''
 date: 2020-09-02
 venue: 'Earth and Space Science Open Archive'

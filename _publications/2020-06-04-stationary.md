@@ -1,7 +1,7 @@
 ---
 title: "Stationary and Portable Multipollutant Monitors for High Spatiotemporal Resolution Air Quality Studies including Online Calibration"
 collection: publications
-permalink: /publication/2020-06-04-stationary.md
+permalink: /publication/2020-06-04-stationary
 excerpt: ''
 date: 2020-06-04
 venue: 'Atmospheric Measurement Techniques'

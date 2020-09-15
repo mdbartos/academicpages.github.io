@@ -1,7 +1,7 @@
 ---
 title: "pipedream: an interactive digital twin model for urban drainage networks"
 collection: publications
-permalink: /publication/2020-07-17-pipedream.md
+permalink: /publication/2020-07-17-pipedream
 excerpt: ''
 date: 2020-07-17
 venue: 'EarthArXiv'
