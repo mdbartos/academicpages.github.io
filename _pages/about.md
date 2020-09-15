@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am a Ph.D. candidate studying Civil Engineering at the University of Michigan. 
+Hi. I am a new assistant professor of Civil Engineering at the University of Texas at Austin (starting January 2021).
 
 ▶ Research
 ------
