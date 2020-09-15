@@ -13,13 +13,11 @@ Hi. I am a new assistant professor of Civil Engineering at the University of Tex
 ▶ Research
 ------
 
-My research focuses on developing the next generation of [*smart* urban water systems](https://mdbartos.github.io/academicpages.github.io/publication/2017-12-22-open).
+My research focuses on developing the next generation of [*smart* urban water systems](https://mattbartos.com/publication/2017-12-22-open).
 
-<!-- These systems use real-time monitoring and control to mitigate flash floods, limit pollutant loads and reduce operational costs. -->
+Ongoing applications include a [real-time flood monitoring network](https://mattbartos.com/publication/2019-02-27-hydrologic) in the Dallas--Fort Worth metroplex, and a pilot [stormwater control network](https://mattbartos.com/publication/2018-07-13-shaping) in the City of Ann Arbor. 
 
-Ongoing applications include a [real-time flood monitoring network](https://mdbartos.github.io/academicpages.github.io/publication/2019-02-27-hydrologic) in the Dallas--Fort Worth metroplex, and a pilot [stormwater control network](https://mdbartos.github.io/academicpages.github.io/publication/2018-07-13-shaping) in the City of Ann Arbor. 
-
-I also develop [new algorithms](https://mdbartos.github.io/academicpages.github.io/publication/2019-03-28-hydrograph) for data assimilation, event detection, and sensor/controller placement. 
+I also develop [new algorithms](https://mattbartos.com/publication/2019-03-28-hydrograph) for data assimilation, event detection, and sensor/controller placement. 
 
 ▶ Software
 ------
